@@ -13,7 +13,5 @@
 - (void)delete:(CDVInvokedUrlCommand*)command;
 - (void)head:(CDVInvokedUrlCommand*)command;
 - (void)options:(CDVInvokedUrlCommand*)command;
-- (void)uploadFiles:(CDVInvokedUrlCommand*)command;
-- (void)downloadFile:(CDVInvokedUrlCommand*)command;
 
 @end
